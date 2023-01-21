@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/InterviewPurpose/static/css/main.979f9697.chunk.css",
+    "main.css": "/InterviewPurpose/static/css/main.98676c57.chunk.css",
     "main.js": "/InterviewPurpose/static/js/main.93d761dd.chunk.js",
     "main.js.map": "/InterviewPurpose/static/js/main.93d761dd.chunk.js.map",
     "runtime-main.js": "/InterviewPurpose/static/js/runtime-main.027847fa.js",
@@ -8,13 +8,13 @@
     "static/js/2.28952d09.chunk.js": "/InterviewPurpose/static/js/2.28952d09.chunk.js",
     "static/js/2.28952d09.chunk.js.map": "/InterviewPurpose/static/js/2.28952d09.chunk.js.map",
     "index.html": "/InterviewPurpose/index.html",
-    "static/css/main.979f9697.chunk.css.map": "/InterviewPurpose/static/css/main.979f9697.chunk.css.map",
+    "static/css/main.98676c57.chunk.css.map": "/InterviewPurpose/static/css/main.98676c57.chunk.css.map",
     "static/js/2.28952d09.chunk.js.LICENSE.txt": "/InterviewPurpose/static/js/2.28952d09.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.027847fa.js",
     "static/js/2.28952d09.chunk.js",
-    "static/css/main.979f9697.chunk.css",
+    "static/css/main.98676c57.chunk.css",
     "static/js/main.93d761dd.chunk.js"
   ]
 }
